@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**FcoGomez92/FcoGomez92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack and Web3 - Blockchain Developer living in Spain.
 
-Here are some ideas to get you started:
+#### SOME OF MY WORKS
+- 🔎 [Magnifyer](https://www.magnifyer.site) *- Full Stack (Own project)*
+- 🧭 [Find My Bridge](https://www.findmybridge.com) *- Full Stack*
+- 🪙 [Condor Token](https://contribute.condortoken.io) *- Web3 & Blockchain*
+- 🖼 [Casa Condor & Condor Academy NFTs](https://nft.condortoken.io) *- Web3 & Blockchain*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ABOUT ME
+- 💻  I'm currently building @Findmybridge 
+- ⚙️  I use daily: Javascript, React.js, Node.js, Solidity, Ethers.js
+- 🔭  Looking for new challenges in startups or in web3 - blockchain ecosystems 
+- 🌍  I'm mostly active within blockchain Community
+- 🌱  Learning about branding, Continuous Integration, GraphQL, and ZK rollups on Ethereum
+- 💬  Ping me about startups, blockchain, development, product design, new projects or anything interesting
+- 📫  Reach me: [twitter.com/FcoGomez92_](https://twitter.com/FcoGomez92_)
+- 📑  You can view my CV and covering letter in my [Notion page](https://www.notion.so/fcogomez/Professional-Profile-8c9a4dac50404377871b90b829517585) 
+- 😆  Fun fact: In 2020 I didn't know anything about programming. I thought that HTML was the contraction of hotmail.
