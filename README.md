@@ -3,6 +3,7 @@
 I'm a Full-Stack and Web3 - Blockchain Developer living in Spain.
 
 #### SOME OF MY WORKS
+- ⚽️ [Fifa World Cup 2022 NFTs](https://fwc22.xyz) *- Web3 & Blockchain (Own project)*
 - 🔎 [Magnifyer](https://www.magnifyer.site) *- Full Stack (Own project)*
 - 🧭 [Find My Bridge](https://www.findmybridge.com) *- Full Stack*
 - 🪙 [Condor Token](https://contribute.condortoken.io) *- Web3 & Blockchain*
