@@ -17,5 +17,5 @@ I'm a Full-Stack and Web3 - Blockchain Developer living in Spain.
 - 🌱  Learning about branding, Continuous Integration, GraphQL, and ZK rollups on Ethereum
 - 💬  Ping me about startups, blockchain, development, product design, new projects or anything interesting
 - 📫  Reach me: [twitter.com/FcoGomez92_](https://twitter.com/FcoGomez92_)
-- 📑  You can view my CV and covering letter in my [Notion page](https://fcogomez.notion.site/CV-8c9a4dac50404377871b90b829517585) 
+- 📑  You can view my professional profile in my [LinkedIn](https://www.linkedin.com/in/francisco-gómez-gallardo-63610969/) 
 - 😆  Fun fact: In 2020 I didn't know anything about programming. I thought that HTML was the contraction of hotmail.
