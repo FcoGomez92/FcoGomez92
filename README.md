@@ -14,7 +14,7 @@ I'm a Full-Stack and Web3 - Blockchain Developer living in Spain.
 - ⚙️  I use daily: Javascript, React.js, Node.js, Solidity, Ethers.js
 - 🔭  Looking for new challenges in startups or in web3 - blockchain ecosystems 
 - 🌍  I'm mostly active within blockchain Community
-- 🌱  Learning about branding, Continuous Integration, GraphQL, and ZK rollups on Ethereum
+- 🌱  Learning about Branding, Continuous Integration, Testing, Typescript, GraphQL
 - 💬  Ping me about startups, blockchain, development, product design, new projects or anything interesting
 - 📫  Reach me: [twitter.com/FcoGomez92_](https://twitter.com/FcoGomez92_)
 - 📑  You can view my professional profile in my [LinkedIn](https://www.linkedin.com/in/francisco-gómez-gallardo-63610969/) 
