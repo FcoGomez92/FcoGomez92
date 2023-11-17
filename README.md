@@ -3,9 +3,9 @@
 I'm a Full-Stack and Web3 - Blockchain Developer living in Spain.
 
 #### SOME OF MY WORKS
-- ⚽️ [Fifa World Cup 2022 NFTs](https://fwc22.xyz) *- Web3 & Blockchain (Own project)*
+- ⚽️ [Fifa World Cup 2022 NFTs](https://fwc-22.vercel.app) *- Web3 & Blockchain (Own project)*
 - 🔎 [Magnifyer](https://www.magnifyer.site) *- Full Stack (Own project)*
-- 🧭 [Find My Bridge](https://www.findmybridge.com) *- Full Stack*
+- 🧭 [Find My Bridge](https://app.findmybridge.com) *- Full Stack*
 - 🪙 [Condor Token](https://contribute.condortoken.io) *- Web3 & Blockchain*
 - 🖼 [Casa Condor & Condor Academy NFTs](https://nft.condortoken.io) *- Web3 & Blockchain*
 
@@ -13,7 +13,7 @@ I'm a Full-Stack and Web3 - Blockchain Developer living in Spain.
 - 💻  I'm currently building @Findmybridge 
 - ⚙️  I use daily: Javascript, React.js, Node.js, Solidity, Ethers.js
 - 🔭  Looking for new challenges in startups or in web3 - blockchain ecosystems 
-- 🌍  I'm mostly active within blockchain Community
+- 🌍  I'm mostly active within blockchain, Indie Hackers and #buildinpublic communities
 - 🌱  Learning about Branding, Continuous Integration, Testing, Typescript, GraphQL
 - 💬  Ping me about startups, blockchain, development, product design, new projects or anything interesting
 - 📫  Reach me: [twitter.com/FcoGomez92_](https://twitter.com/FcoGomez92_)
