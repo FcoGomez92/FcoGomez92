@@ -9,11 +9,11 @@ I'm a Full-Stack and Web3 - Blockchain Developer living in Spain.
 - ✌️ All my works [here](fcogomez.work)
 
 #### ABOUT ME
-- 💻  I'm currently building @Findmybridge 
-- ⚙️  I use daily: Javascript, React.js, Node.js, Solidity, Ethers.js
+- 💻  I'm currently looking for a new challenge 
+- ⚙️  I use daily: Javascript,TypeScript, React.js, Node.js, Solidity, Ethers.js
 - 🔭  Looking for new challenges in startups or in web3 - blockchain ecosystems 
 - 🌍  I'm mostly active within blockchain, Indie Hackers and #buildinpublic communities
-- 🌱  Learning about Branding, Continuous Integration, Testing, Typescript, Artificial Intelligence
+- 🌱  Learning about Design, Continuous Integration, Software Architecture, Artificial Intelligence
 - 💬  Ping me about startups, blockchain, development, product design, new projects or anything interesting
 - 📫  Reach me: [twitter.com/FcoGomez92_](https://twitter.com/FcoGomez92_)
 - 📑  You can view my professional profile in my [LinkedIn](https://www.linkedin.com/in/francisco-gómez-gallardo-63610969/) 
