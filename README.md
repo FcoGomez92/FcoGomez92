@@ -6,7 +6,7 @@ I'm a Blockchain - Full Stack Developer living in Spain.
 - ⚽️ [Fifa World Cup 2022 NFTs](https://fwc-22.vercel.app) *- Web3 & Blockchain (Own project)*
 - 🔎 [Magnifyer](https://magnifyer-frontend.vercel.app) *- Full Stack (Own project)*
 - 🧭 [Find My Bridge](https://app.findmybridge.com) *- Full Stack & Blockchain*
-- ✌️ Some of my works [here](fcogomez.work)
+- ✌️ Some of my works [here](https://fcogomez.work)
 
 #### ABOUT ME
 - 💻  I'm currently freelancing, but I'm open to offers 
